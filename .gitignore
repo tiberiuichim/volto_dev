@@ -1,0 +1,4 @@
+/node_modules/
+./src/*
+./data/*
+docker-compose.override.yml
