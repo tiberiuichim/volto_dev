@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Personal Information",
+    "defaultMessage": "Personal Information"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Full Name",
+    "defaultMessage": "Full Name"
+  },
+  {
+    "id": "Enter full name, e.g. John Smith.",
+    "defaultMessage": "Enter full name, e.g. John Smith."
+  },
+  {
+    "id": "E-mail",
+    "defaultMessage": "E-mail"
+  },
+  {
+    "id": "We will use this address if you need to recover your password",
+    "defaultMessage": "We will use this address if you need to recover your password"
+  },
+  {
+    "id": "Portrait",
+    "defaultMessage": "Portrait"
+  },
+  {
+    "id": "The user portrait/avatar",
+    "defaultMessage": "The user portrait/avatar"
+  },
+  {
+    "id": "Home page",
+    "defaultMessage": "Home page"
+  },
+  {
+    "id": "The URL for your external home page, if you have one.",
+    "defaultMessage": "The URL for your external home page, if you have one."
+  },
+  {
+    "id": "Location",
+    "defaultMessage": "Location"
+  },
+  {
+    "id": "Your location - either city and country - or in a company setting, where your office is located.",
+    "defaultMessage": "Your location - either city and country - or in a company setting, where your office is located."
+  },
+  {
+    "id": "Changes saved",
+    "defaultMessage": "Changes saved"
+  },
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Success",
+    "defaultMessage": "Success"
+  }
+]

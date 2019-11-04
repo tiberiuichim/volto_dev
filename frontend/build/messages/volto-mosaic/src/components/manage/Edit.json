@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Edit {title}",
+    "defaultMessage": "Edit {title}"
+  },
+  {
+    "id": "Save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  }
+]

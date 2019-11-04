@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Delete",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "Ok",
+    "defaultMessage": "Ok"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "Do you really want to delete this item?",
+    "defaultMessage": "Do you really want to delete this item?"
+  }
+]

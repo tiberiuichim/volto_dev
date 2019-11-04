@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Insert row before",
+    "defaultMessage": "Insert row before"
+  },
+  {
+    "id": "Insert row after",
+    "defaultMessage": "Insert row after"
+  },
+  {
+    "id": "Delete row",
+    "defaultMessage": "Delete row"
+  },
+  {
+    "id": "Insert col before",
+    "defaultMessage": "Insert col before"
+  },
+  {
+    "id": "Insert col after",
+    "defaultMessage": "Insert col after"
+  },
+  {
+    "id": "Delete col",
+    "defaultMessage": "Delete col"
+  },
+  {
+    "id": "Fixed width table cells",
+    "defaultMessage": "Fixed width table cells"
+  },
+  {
+    "id": "Make the table compact",
+    "defaultMessage": "Make the table compact"
+  },
+  {
+    "id": "Reduce complexity",
+    "defaultMessage": "Reduce complexity"
+  },
+  {
+    "id": "Divide each row into separate cells",
+    "defaultMessage": "Divide each row into separate cells"
+  },
+  {
+    "id": "Table color inverted",
+    "defaultMessage": "Table color inverted"
+  },
+  {
+    "id": "Stripe alternate rows with color",
+    "defaultMessage": "Stripe alternate rows with color"
+  },
+  {
+    "id": "Table",
+    "defaultMessage": "Table"
+  },
+  {
+    "id": "Cell",
+    "defaultMessage": "Cell"
+  }
+]

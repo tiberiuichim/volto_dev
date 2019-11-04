@@ -1,0 +1,78 @@
+[
+  {
+    "id": "Add field",
+    "defaultMessage": "Add field"
+  },
+  {
+    "id": "Add fieldset",
+    "defaultMessage": "Add fieldset"
+  },
+  {
+    "id": "Edit field",
+    "defaultMessage": "Edit field"
+  },
+  {
+    "id": "Edit fieldset",
+    "defaultMessage": "Edit fieldset"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Short Name",
+    "defaultMessage": "Short Name"
+  },
+  {
+    "id": "Used for programmatic access to the fieldset.",
+    "defaultMessage": "Used for programmatic access to the fieldset."
+  },
+  {
+    "id": "String",
+    "defaultMessage": "String"
+  },
+  {
+    "id": "Text",
+    "defaultMessage": "Text"
+  },
+  {
+    "id": "Richtext",
+    "defaultMessage": "Richtext"
+  },
+  {
+    "id": "Checkbox",
+    "defaultMessage": "Checkbox"
+  },
+  {
+    "id": "Selection",
+    "defaultMessage": "Selection"
+  },
+  {
+    "id": "Type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "Title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "Description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "Required",
+    "defaultMessage": "Required"
+  },
+  {
+    "id": "Are you sure you want to delete this fieldset including all fields?",
+    "defaultMessage": "Are you sure you want to delete this fieldset including all fields?"
+  },
+  {
+    "id": "Are you sure you want to delete this field?",
+    "defaultMessage": "Are you sure you want to delete this field?"
+  },
+  {
+    "id": "Error",
+    "defaultMessage": "Error"
+  }
+]

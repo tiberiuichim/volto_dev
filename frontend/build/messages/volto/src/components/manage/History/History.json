@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "History of {title}",
+    "defaultMessage": "History of {title}"
+  },
+  {
+    "id": "You can view the history of your item below.",
+    "defaultMessage": "You can view the history of your item below."
+  },
+  {
+    "id": "What",
+    "defaultMessage": "What"
+  },
+  {
+    "id": "Who",
+    "defaultMessage": "Who"
+  },
+  {
+    "id": "When",
+    "defaultMessage": "When"
+  },
+  {
+    "id": "Change Note",
+    "defaultMessage": "Change Note"
+  },
+  {
+    "id": "View changes",
+    "defaultMessage": "View changes"
+  },
+  {
+    "id": "View this revision",
+    "defaultMessage": "View this revision"
+  },
+  {
+    "id": "Revert to this revision",
+    "defaultMessage": "Revert to this revision"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Contents",
+    "defaultMessage": "Contents"
+  },
+  {
+    "id": "Copy",
+    "defaultMessage": "Copy"
+  },
+  {
+    "id": "Cut",
+    "defaultMessage": "Cut"
+  },
+  {
+    "id": "Delete",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "Do you really want to delete the following items?",
+    "defaultMessage": "Do you really want to delete the following items?"
+  },
+  {
+    "id": "Home",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "Filter…",
+    "defaultMessage": "Filter…"
+  },
+  {
+    "id": "Item(s) copied.",
+    "defaultMessage": "Item(s) copied."
+  },
+  {
+    "id": "Item(s) cut.",
+    "defaultMessage": "Item(s) cut."
+  },
+  {
+    "id": "Item(s) pasted.",
+    "defaultMessage": "Item(s) pasted."
+  },
+  {
+    "id": "Paste",
+    "defaultMessage": "Paste"
+  },
+  {
+    "id": "Properties",
+    "defaultMessage": "Properties"
+  },
+  {
+    "id": "Rearrange items by…",
+    "defaultMessage": "Rearrange items by…"
+  },
+  {
+    "id": "Rename",
+    "defaultMessage": "Rename"
+  },
+  {
+    "id": "Select…",
+    "defaultMessage": "Select…"
+  },
+  {
+    "id": "{count} selected",
+    "defaultMessage": "{count} selected"
+  },
+  {
+    "id": "Select columns to show",
+    "defaultMessage": "Select columns to show"
+  },
+  {
+    "id": "State",
+    "defaultMessage": "State"
+  },
+  {
+    "id": "Tags",
+    "defaultMessage": "Tags"
+  },
+  {
+    "id": "Upload",
+    "defaultMessage": "Upload"
+  },
+  {
+    "id": "Success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "Ascending",
+    "defaultMessage": "Ascending"
+  },
+  {
+    "id": "Descending",
+    "defaultMessage": "Descending"
+  },
+  {
+    "id": "All",
+    "defaultMessage": "All"
+  },
+  {
+    "id": "None",
+    "defaultMessage": "None"
+  },
+  {
+    "id": "Title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "Actions",
+    "defaultMessage": "Actions"
+  }
+]

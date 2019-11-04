@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Short Name",
+    "defaultMessage": "Short Name"
+  },
+  {
+    "id": "Used for programmatic access to the fieldset.",
+    "defaultMessage": "Used for programmatic access to the fieldset."
+  },
+  {
+    "id": "Title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "Description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "Required",
+    "defaultMessage": "Required"
+  }
+]

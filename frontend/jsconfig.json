@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@plone/volto": ["../volto"]
+        },
+        "baseUrl": "src"
+    }
+}

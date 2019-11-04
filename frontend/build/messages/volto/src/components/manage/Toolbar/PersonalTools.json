@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Preferences",
+    "defaultMessage": "Preferences"
+  },
+  {
+    "id": "Profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "Site Setup",
+    "defaultMessage": "Site Setup"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "Description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "Type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "State",
+    "defaultMessage": "State"
+  }
+]

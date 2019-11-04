@@ -1,0 +1,22 @@
+[
+  {
+    "id": "custom_addons",
+    "defaultMessage": "Custom Addons"
+  },
+  {
+    "id": "plotly_chart",
+    "defaultMessage": "Plotly Chart"
+  },
+  {
+    "id": "demo_chart",
+    "defaultMessage": "Demo Chart"
+  },
+  {
+    "id": "tableau",
+    "defaultMessage": "Tableau"
+  },
+  {
+    "id": "forests_specific",
+    "defaultMessage": "Forests Specific Tiles"
+  }
+]

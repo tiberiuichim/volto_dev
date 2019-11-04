@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Rename items",
+    "defaultMessage": "Rename items"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "Short name",
+    "defaultMessage": "Short name"
+  },
+  {
+    "id": "This name will be displayed in the URL.",
+    "defaultMessage": "This name will be displayed in the URL."
+  }
+]

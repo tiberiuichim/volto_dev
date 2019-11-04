@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Tags",
+    "defaultMessage": "Tags"
+  },
+  {
+    "id": "Tags to remove",
+    "defaultMessage": "Tags to remove"
+  },
+  {
+    "id": "Tags to add",
+    "defaultMessage": "Tags to add"
+  }
+]

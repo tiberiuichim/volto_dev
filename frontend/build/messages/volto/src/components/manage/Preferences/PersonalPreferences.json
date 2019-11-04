@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Personal Preferences",
+    "defaultMessage": "Personal Preferences"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Language",
+    "defaultMessage": "Language"
+  },
+  {
+    "id": "Your preferred language",
+    "defaultMessage": "Your preferred language"
+  },
+  {
+    "id": "Changes saved",
+    "defaultMessage": "Changes saved"
+  },
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Success",
+    "defaultMessage": "Success"
+  }
+]

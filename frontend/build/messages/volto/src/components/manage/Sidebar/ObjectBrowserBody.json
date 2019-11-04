@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Search content",
+    "defaultMessage": "Search content"
+  },
+  {
+    "id": "Choose Image",
+    "defaultMessage": "Choose Image"
+  },
+  {
+    "id": "Choose Target",
+    "defaultMessage": "Choose Target"
+  },
+  {
+    "id": "ChooseImage",
+    "defaultMessage": "Choose Image"
+  },
+  {
+    "id": "ChooseTargetLink",
+    "defaultMessage": "Choose Target"
+  }
+]

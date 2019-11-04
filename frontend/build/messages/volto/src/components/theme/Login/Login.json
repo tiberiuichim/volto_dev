@@ -1,0 +1,54 @@
+[
+  {
+    "id": "Log in",
+    "defaultMessage": "Log in"
+  },
+  {
+    "id": "Login Name",
+    "defaultMessage": "Login Name"
+  },
+  {
+    "id": "Password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "Error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "Login Failed",
+    "defaultMessage": "Login Failed"
+  },
+  {
+    "id": "Both email address and password are case sensitive, check that caps lock is not enabled.",
+    "defaultMessage": "Both email address and password are case sensitive, check that caps lock is not enabled."
+  },
+  {
+    "id": "Log In",
+    "defaultMessage": "Login Name"
+  },
+  {
+    "id": "Sign in to start session",
+    "defaultMessage": "Sign in to start session"
+  },
+  {
+    "id": "If you you do not have an account here, head over to the {registrationform}.",
+    "defaultMessage": "If you you do not have an account here, head over to the {registrationform}."
+  },
+  {
+    "id": "registration form",
+    "defaultMessage": "registration form"
+  },
+  {
+    "id": "If you have forgotten your password, {forgotpassword}",
+    "defaultMessage": "If you have forgotten your password, {forgotpassword}"
+  },
+  {
+    "id": "we can send you a new one",
+    "defaultMessage": "we can send you a new one"
+  }
+]

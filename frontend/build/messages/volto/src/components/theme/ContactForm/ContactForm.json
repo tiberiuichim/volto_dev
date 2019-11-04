@@ -1,0 +1,46 @@
+[
+  {
+    "id": "Send",
+    "defaultMessage": "Send"
+  },
+  {
+    "id": "Contact form",
+    "defaultMessage": "Contact form"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "From",
+    "defaultMessage": "From"
+  },
+  {
+    "id": "Subject",
+    "defaultMessage": "Subject"
+  },
+  {
+    "id": "Message",
+    "defaultMessage": "Message"
+  },
+  {
+    "id": "Error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "Email sent",
+    "defaultMessage": "Email sent"
+  },
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Success",
+    "defaultMessage": "Success"
+  }
+]

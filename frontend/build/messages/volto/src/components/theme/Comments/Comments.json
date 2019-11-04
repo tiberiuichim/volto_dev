@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Comment",
+    "defaultMessage": "Comment"
+  },
+  {
+    "id": "You can add a comment by filling out the form below. Plain text formatting.",
+    "defaultMessage": "You can add a comment by filling out the form below. Plain text formatting."
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "{user} says:",
+    "defaultMessage": "{user} says:"
+  },
+  {
+    "id": "Delete",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "Edit",
+    "defaultMessage": "Edit"
+  }
+]

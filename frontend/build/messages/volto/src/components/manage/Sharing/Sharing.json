@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Search for user or group",
+    "defaultMessage": "Search for user or group"
+  },
+  {
+    "id": "Inherit permissions from higher levels",
+    "defaultMessage": "Inherit permissions from higher levels"
+  },
+  {
+    "id": "Save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Sharing for {title}",
+    "defaultMessage": "Sharing for {title}"
+  },
+  {
+    "id": "You can control who can view and edit your item using the list below.",
+    "defaultMessage": "You can control who can view and edit your item using the list below."
+  },
+  {
+    "id": "Name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "By default, permissions from the container of this item are inherited. If you disable this, only the explicitly defined sharing permissions will be valid. In the overview, the symbol {inherited} indicates an inherited value. Similarly, the symbol {global} indicates a global role, which is managed by the site administrator.",
+    "defaultMessage": "By default, permissions from the container of this item are inherited. If you disable this, only the explicitly defined sharing permissions will be valid. In the overview, the symbol {inherited} indicates an inherited value. Similarly, the symbol {global} indicates a global role, which is managed by the site administrator."
+  }
+]

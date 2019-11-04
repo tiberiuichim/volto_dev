@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Moderate comments",
+    "defaultMessage": "Moderate comments"
+  },
+  {
+    "id": "Commenter",
+    "defaultMessage": "Commenter"
+  },
+  {
+    "id": "Date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "Comment",
+    "defaultMessage": "Comment"
+  },
+  {
+    "id": "Action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "Edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "Delete",
+    "defaultMessage": "Delete"
+  }
+]

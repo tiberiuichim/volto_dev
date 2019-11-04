@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Search users...",
+    "defaultMessage": "Search users..."
+  },
+  {
+    "id": "Search group...",
+    "defaultMessage": "Search group..."
+  },
+  {
+    "id": "Save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Delete User",
+    "defaultMessage": "Delete User"
+  },
+  {
+    "id": "Delete Group",
+    "defaultMessage": "Delete Group"
+  },
+  {
+    "id": "Add new user",
+    "defaultMessage": "Add new user"
+  },
+  {
+    "id": "Add new group",
+    "defaultMessage": "Add new group"
+  },
+  {
+    "id": "Add User",
+    "defaultMessage": "Add User"
+  },
+  {
+    "id": "Add group",
+    "defaultMessage": "Add group"
+  },
+  {
+    "id": "Username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "Title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "Fullname",
+    "defaultMessage": "Fullname"
+  },
+  {
+    "id": "Add to Groups",
+    "defaultMessage": "Add to Groups"
+  },
+  {
+    "id": "Description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "Email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "Password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "Roles",
+    "defaultMessage": "Roles"
+  },
+  {
+    "id": "Success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "User created",
+    "defaultMessage": "User created"
+  },
+  {
+    "id": "Group created",
+    "defaultMessage": "Group created"
+  },
+  {
+    "id": "Do you really want to delete the group {groupname}?",
+    "defaultMessage": "Do you really want to delete the group {groupname}?"
+  },
+  {
+    "id": "Do you really want to delete the user {username}?",
+    "defaultMessage": "Do you really want to delete the user {username}?"
+  },
+  {
+    "id": "Users and groups settings",
+    "defaultMessage": "Users and groups settings"
+  },
+  {
+    "id": "Users",
+    "defaultMessage": "Users"
+  },
+  {
+    "id": "User name",
+    "defaultMessage": "User name"
+  },
+  {
+    "id": "Actions",
+    "defaultMessage": "Actions"
+  },
+  {
+    "id": "Groups",
+    "defaultMessage": "Groups"
+  },
+  {
+    "id": "Groupname",
+    "defaultMessage": "Groupname"
+  }
+]

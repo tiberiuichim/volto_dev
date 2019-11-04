@@ -1,0 +1,50 @@
+[
+  {
+    "id": "title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "text",
+    "defaultMessage": "Text"
+  },
+  {
+    "id": "image",
+    "defaultMessage": "Image"
+  },
+  {
+    "id": "video",
+    "defaultMessage": "Video"
+  },
+  {
+    "id": "hero",
+    "defaultMessage": "Hero"
+  },
+  {
+    "id": "table",
+    "defaultMessage": "Table"
+  },
+  {
+    "id": "maps",
+    "defaultMessage": "Maps"
+  },
+  {
+    "id": "html",
+    "defaultMessage": "HTML"
+  },
+  {
+    "id": "mostUsed",
+    "defaultMessage": "Most used"
+  },
+  {
+    "id": "media",
+    "defaultMessage": "Media"
+  },
+  {
+    "id": "common",
+    "defaultMessage": "Common"
+  }
+]

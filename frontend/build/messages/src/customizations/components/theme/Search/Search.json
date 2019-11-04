@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Search results for {term}",
+    "defaultMessage": "Search results for {term}"
+  },
+  {
+    "id": "Search results",
+    "defaultMessage": "Search results"
+  },
+  {
+    "id": "Read More…",
+    "defaultMessage": "Read More…"
+  }
+]

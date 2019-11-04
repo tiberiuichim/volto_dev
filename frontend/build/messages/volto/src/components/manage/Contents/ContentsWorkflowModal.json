@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Change State",
+    "defaultMessage": "Change State"
+  },
+  {
+    "id": "Select the transition to be used for modifying the items state.",
+    "defaultMessage": "Select the transition to be used for modifying the items state."
+  }
+]

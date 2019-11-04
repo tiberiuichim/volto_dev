@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Diff",
+    "defaultMessage": "Diff"
+  },
+  {
+    "id": "Back",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "Difference between revision {one} and {two} of {title}",
+    "defaultMessage": "Difference between revision {one} and {two} of {title}"
+  },
+  {
+    "id": "You can view the difference of the revisions below.",
+    "defaultMessage": "You can view the difference of the revisions below."
+  },
+  {
+    "id": "Base",
+    "defaultMessage": "Base"
+  },
+  {
+    "id": "Compare",
+    "defaultMessage": "Compare"
+  }
+]

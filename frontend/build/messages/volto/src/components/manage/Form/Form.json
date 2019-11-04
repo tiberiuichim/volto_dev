@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Add tile...",
+    "defaultMessage": "Add tile..."
+  },
+  {
+    "id": "Required input is missing.",
+    "defaultMessage": "Required input is missing."
+  },
+  {
+    "id": "Minimum length is {len}.",
+    "defaultMessage": "Minimum length is {len}."
+  },
+  {
+    "id": "Items must be unique.",
+    "defaultMessage": "Items must be unique."
+  },
+  {
+    "id": "Save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "Error",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "There were some errors.",
+    "defaultMessage": "There were some errors."
+  }
+]

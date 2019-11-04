@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "View",
+    "defaultMessage": "View"
+  },
+  {
+    "id": "Cut",
+    "defaultMessage": "Cut"
+  },
+  {
+    "id": "Copy",
+    "defaultMessage": "Copy"
+  },
+  {
+    "id": "Delete",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "Move to top of folder",
+    "defaultMessage": "Move to top of folder"
+  },
+  {
+    "id": "Move to bottom of folder",
+    "defaultMessage": "Move to bottom of folder"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Image",
+    "defaultMessage": "Image"
+  },
+  {
+    "id": "Origin",
+    "defaultMessage": "Origin"
+  },
+  {
+    "id": "Alt text",
+    "defaultMessage": "Alt text"
+  },
+  {
+    "id": "Alignment",
+    "defaultMessage": "Alignment"
+  },
+  {
+    "id": "Link to",
+    "defaultMessage": "Link to"
+  },
+  {
+    "id": "Open in a new tab",
+    "defaultMessage": "Open in a new tab"
+  },
+  {
+    "id": "No image selected",
+    "defaultMessage": "No image selected"
+  },
+  {
+    "id": "External URL",
+    "defaultMessage": "External URL"
+  }
+]

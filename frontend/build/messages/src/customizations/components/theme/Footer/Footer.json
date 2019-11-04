@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Copyright",
+    "defaultMessage": "Copyright"
+  },
+  {
+    "id": "legal_notice",
+    "defaultMessage": "Legal notice"
+  },
+  {
+    "id": "private_policy",
+    "defaultMessage": "Private policy"
+  },
+  {
+    "id": "Credits",
+    "defaultMessage": "Credis"
+  }
+]

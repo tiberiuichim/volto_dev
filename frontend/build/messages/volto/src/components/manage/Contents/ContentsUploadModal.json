@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "Upload {count, plural, one {# file} other {# files}}",
+    "defaultMessage": "Upload {count, plural, one {# file} other {# files}}"
+  },
+  {
+    "id": "Upload files",
+    "defaultMessage": "Upload files"
+  },
+  {
+    "id": "Uploading files",
+    "defaultMessage": "Uploading files"
+  },
+  {
+    "id": "Drag and drop files from your computer onto this area or click the “Browse” button.",
+    "defaultMessage": "Drag and drop files from your computer onto this area or click the “Browse” button."
+  },
+  {
+    "id": "Browse",
+    "defaultMessage": "Browse"
+  },
+  {
+    "id": "Filename",
+    "defaultMessage": "Filename"
+  },
+  {
+    "id": "Last modified",
+    "defaultMessage": "Last modified"
+  },
+  {
+    "id": "File size",
+    "defaultMessage": "File size"
+  },
+  {
+    "id": "Preview",
+    "defaultMessage": "Preview"
+  }
+]

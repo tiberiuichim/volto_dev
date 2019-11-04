@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Properties",
+    "defaultMessage": "Properties"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Publishing Date",
+    "defaultMessage": "Publishing Date"
+  },
+  {
+    "id": "If this date is in the future, the content will not show up in listings and searches until this date.",
+    "defaultMessage": "If this date is in the future, the content will not show up in listings and searches until this date."
+  },
+  {
+    "id": "Expiration Date",
+    "defaultMessage": "Expiration Date"
+  },
+  {
+    "id": "When this date is reached, the content will nolonger be visible in listings and searches.",
+    "defaultMessage": "When this date is reached, the content will nolonger be visible in listings and searches."
+  },
+  {
+    "id": "Rights",
+    "defaultMessage": "Rights"
+  },
+  {
+    "id": "Copyright statement or other rights information on this item.",
+    "defaultMessage": "Copyright statement or other rights information on this item."
+  },
+  {
+    "id": "Creators",
+    "defaultMessage": "Creators"
+  },
+  {
+    "id": "Persons responsible for creating the content of this item. Please enter a list of user names, one per line. The principal creator should come first.",
+    "defaultMessage": "Persons responsible for creating the content of this item. Please enter a list of user names, one per line. The principal creator should come first."
+  },
+  {
+    "id": "Exclude from navigation",
+    "defaultMessage": "Exclude from navigation"
+  },
+  {
+    "id": "If selected, this item will not appear in the navigation tree",
+    "defaultMessage": "If selected, this item will not appear in the navigation tree"
+  }
+]

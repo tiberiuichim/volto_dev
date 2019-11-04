@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Registration form",
+    "defaultMessage": "Registration form"
+  },
+  {
+    "id": "Default",
+    "defaultMessage": "Default"
+  },
+  {
+    "id": "Full Name",
+    "defaultMessage": "Full Name"
+  },
+  {
+    "id": "Enter full name, e.g. John Smith.",
+    "defaultMessage": "Enter full name, e.g. John Smith."
+  },
+  {
+    "id": "E-mail",
+    "defaultMessage": "E-mail"
+  },
+  {
+    "id": "Enter an email address. This will be your login name. We respect your privacy, and will not give the address away to any third parties or expose it anywhere.",
+    "defaultMessage": "Enter an email address. This will be your login name. We respect your privacy, and will not give the address away to any third parties or expose it anywhere."
+  },
+  {
+    "id": "Account Registration Completed",
+    "defaultMessage": "Account Registration Completed"
+  },
+  {
+    "id": "The registration process has been successful. Please check your e-mail inbox for information on how activate your account.",
+    "defaultMessage": "The registration process has been successful. Please check your e-mail inbox for information on how activate your account."
+  },
+  {
+    "id": "Register",
+    "defaultMessage": "Register"
+  }
+]

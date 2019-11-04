@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Add {type}",
+    "defaultMessage": "Add {type}"
+  },
+  {
+    "id": "Save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "Cancel",
+    "defaultMessage": "Cancel"
+  }
+]

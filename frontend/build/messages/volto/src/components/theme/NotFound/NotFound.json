@@ -1,0 +1,22 @@
+[
+  {
+    "id": "This page does not seem to exist…",
+    "defaultMessage": "This page does not seem to exist…"
+  },
+  {
+    "id": "We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for.",
+    "defaultMessage": "We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for."
+  },
+  {
+    "id": "If you are certain you have the correct web address but are encountering an error, please contact the {site_admin}.",
+    "defaultMessage": "If you are certain you have the correct web address but are encountering an error, please contact the {site_admin}."
+  },
+  {
+    "id": "Site Administration",
+    "defaultMessage": "Site Administration"
+  },
+  {
+    "id": "Thank you.",
+    "defaultMessage": "Thank you."
+  }
+]

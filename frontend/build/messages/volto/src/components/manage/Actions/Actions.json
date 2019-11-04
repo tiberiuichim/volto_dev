@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Cut",
+    "defaultMessage": "Cut"
+  },
+  {
+    "id": "Copy",
+    "defaultMessage": "Copy"
+  },
+  {
+    "id": "Paste",
+    "defaultMessage": "Paste"
+  },
+  {
+    "id": "Rename",
+    "defaultMessage": "Rename"
+  },
+  {
+    "id": "{title} copied.",
+    "defaultMessage": "{title} copied."
+  },
+  {
+    "id": "{title} cut.",
+    "defaultMessage": "{title} cut."
+  },
+  {
+    "id": "{title} has been deleted.",
+    "defaultMessage": "{title} has been deleted."
+  },
+  {
+    "id": "Item(s) pasted.",
+    "defaultMessage": "Item(s) pasted."
+  },
+  {
+    "id": "Success",
+    "defaultMessage": "Success"
+  },
+  {
+    "id": "Actions",
+    "defaultMessage": "Actions"
+  }
+]
