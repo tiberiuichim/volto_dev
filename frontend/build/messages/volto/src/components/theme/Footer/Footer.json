@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Copyright",
+    "defaultMessage": "Copyright"
+  },
+  {
+    "id": "The {plonecms} is {copyright} 2000-{current_year} by the {plonefoundation} and friends.",
+    "defaultMessage": "The {plonecms} is {copyright} 2000-{current_year} by the {plonefoundation} and friends."
+  },
+  {
+    "id": "Plone{reg} Open Source CMS/WCM",
+    "defaultMessage": "Plone{reg} Open Source CMS/WCM"
+  },
+  {
+    "id": "Plone Foundation",
+    "defaultMessage": "Plone Foundation"
+  },
+  {
+    "id": "Distributed under the {license}.",
+    "defaultMessage": "Distributed under the {license}."
+  },
+  {
+    "id": "GNU GPL license",
+    "defaultMessage": "GNU GPL license"
+  },
+  {
+    "id": "Site Map",
+    "defaultMessage": "Site Map"
+  },
+  {
+    "id": "Accessibility",
+    "defaultMessage": "Accessibility"
+  },
+  {
+    "id": "Contact",
+    "defaultMessage": "Contact"
+  },
+  {
+    "id": "Powered by Plone & Python",
+    "defaultMessage": "Powered by Plone & Python"
+  }
+]

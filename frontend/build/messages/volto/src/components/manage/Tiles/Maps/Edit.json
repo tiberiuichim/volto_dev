@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Enter Map URL",
+    "defaultMessage": "Enter Map URL"
+  },
+  {
+    "id": "Maps instructions",
+    "defaultMessage": "Please enter the Embed Code provided by Google Maps -> Share -> Embed map. It should contain the <iframe> code on it."
+  },
+  {
+    "id": "Maps data error",
+    "defaultMessage": "Embed code error, please follow the instructions and try again."
+  }
+]
