@@ -1,0 +1,6 @@
+[submodule "frontend/volto"]
+	path = frontend/volto
+	url = git@github.com:tiberiuichim/volto.git
+[submodule "frontend/volto-mosaic"]
+	path = frontend/volto-mosaic
+	url = git@github.com:eaudeweb/volto-mosaic.git
